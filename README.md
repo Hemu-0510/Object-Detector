@@ -44,9 +44,8 @@ Detected Output
 
 📸 Sample Output
 
-Add your project output screenshot here:
+<img width="1258" height="784" alt="image" src="https://github.com/user-attachments/assets/e69c0385-4cba-4639-ad61-62d9e838de4e" />
 
-![Object Detection Output](images/sample.jpg)
 
 
 👩‍💻 Author
